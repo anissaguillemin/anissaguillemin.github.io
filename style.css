@@ -337,3 +337,18 @@ a: focus-visible {
 
 }
 
+/* ===== Couleurs des intérêts scientifiques ===== */
+
+/* Questions biologiques : vert sauge */
+
+#research .grid article:nth-child(odd) {
+  background: #EEF2E9;
+  border-color: #D9DFD3;
+}
+
+/* Approches quantitatives : pêche poudré */
+
+#research .grid article:nth-child(even) {
+  background: #F5E7DE;
+  border-color: #E8D8CD;
+}
