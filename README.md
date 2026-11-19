@@ -1,2 +1,2 @@
 # anissaguillemin.github.io
-Here my personal academic website. 
+Here my personal academic page. 
