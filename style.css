@@ -1,11 +1,12 @@
 /* ===== Couleurs principales ===== */
 :root {
-  --ink: #27C7D4;
-  --accent: #FE9063;
-  --muted: #EA5863;
-  --line: #FDF0E7;
-  --paper: #fff;
-  --soft: #f4f8f9;
+  --ink: #354B43;
+  --accent: #A35F4D;
+  --muted: #59635B;
+  --line: #D9DFD3;
+  --paper: #FCFAF6;
+  --soft: #EEF2E9;
+  --warm: #F5E7DE;
 }
 
 * {
